@@ -1,4 +1,4 @@
-Exp -- Free open source sentiment lexicon expansion script
+# LexiExp -- Free open source sentiment lexicon expansion script
 
 Please read the following <a href="https://github.com/uhh-lt/LexiExp/blob/master/LICENSE.txt"> License </a> agreement.
 
@@ -44,4 +44,3 @@ LexiExp is a tool for expanding existing sentiment seed lexicon. LexiExp provide
 ## Resources:
 1. Kumar, A., Kohail, S., Kumar, A., Ekbal, A., Biemann, C. (2016): IIT-TUDA at SemEval-2016 Task 5: Beyond Sentiment Lexicon: Combining Domain Dependency and Distributional Semantics Features for Aspect Based Sentiment Analysis, In Proceedings of the 10th International Workshop on Semantic Evaluation, San Diego, CA, USA. (selected for best of SemEval session) (<a href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2016-kumar-etal-absa-semeval.pdf">pdf</a>)
 2. Kumar, A., Kohail, S., Ekbal, A., Biemann C. (2015): IIT-TUDA: System for Sentiment Analysis in Indian Languages using Lexical Acquisition. In: Third International Conference on Mining Intelligence and Knowledge Exploration (MIKE 2015). Hyderabad, India (<a href="https://www.lt.informatik.tu-darmstadt.de/fileadmin/user_upload/Group_LangTech/publications/KumarEtAl_MIKE2015.pdf">pdf</a>)
-
