@@ -2,7 +2,7 @@
 
 Please read the following <a href="https://github.com/uhh-lt/LexiExp/blob/master/LICENSE.txt"> License </a> agreement. LexiExp is licensed under ASL 2.0 and other lenient licenses, allowing its use for academic and commercial purposes without restrictions.
 
-LexiExp is a tool for expanding existing sentiment seed lexicon. LexiExp provides a polarity estimation for the new expanded lexicon using a statistical co-occurrence calculation. LexiExp is based on semantic similarity following the <a href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/software/jobimtext.html"> JoBimText </a> project. 
+LexiExp is a tool for expanding existing sentiment seed lexicon. It also provides a polarity estimation for the new expanded lexicon using a statistical co-occurrence calculation. LexiExp is based on semantic similarity following the <a href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/software/jobimtext.html"> JoBimText </a> project. 
 ## How to Use LexiExp from Command Line
 1. <b>Download:</b> Source code is avilable under <a href="https://github.com/uhh-lt/LexiExp">source code</a> or simply use the excutable <a href="https://github.com/uhh-lt/LexiExp/blob/master/LexiExp0.0.1.jar">jar file</a>.
 2. <b>Command Line & Input Parameters</b>: 
