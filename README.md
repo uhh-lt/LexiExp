@@ -1,6 +1,6 @@
 # LexiExp -- Free open source sentiment lexicon expansion script
 
-Also mentioned license in <a href="https://github.com/uhh-lt/LexiExp/blob/master/LICENSE.txt"> License </a> agreement.
+Please read the following <a href="https://github.com/uhh-lt/LexiExp/blob/master/LICENSE.txt"> License </a> agreement. LexiExp is licensed under ASL 2.0 and other lenient licenses, allowing its use for academic and commercial purposes without restrictions. The licenses of its compenents are mixed licensed and are individually listed in Data/Licenses.
 
 LexiExp is a tool for expanding existing sentiment seed lexicon. LexiExp provides a polarity estimation for the new expanded lexicon using a statistical cooccurance calculation. 
 ## How to Use LexiExp from Command Line
