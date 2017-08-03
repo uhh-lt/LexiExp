@@ -10,6 +10,14 @@ import java.util.*;
 import org.apache.commons.cli.*;
 
 /**
+ * This file is part of LexiExp open source tool
+ * 
+ * This code was originally authored by Sarah Kohail (Language Technology/ Universität Hamburg),
+ * under the ASL 2.0 license (http://www.apache.org/licenses/LICENSE-2.0).
+ * 
+ * 
+ * Project: https://github.com/uhh-lt/LexiExp
+ * 
  * Created by Sarah Kohail on 12.07.2017.
  */
 public class LexiExp {
